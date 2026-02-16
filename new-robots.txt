@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*.htaccess$
+
+Sitemap: https://yourportfolio.com/new-sitemap.xml
